@@ -1,0 +1,100 @@
+img{
+    max-width: 100%;
+}
+#slider .container{
+    background-color: #FCEAE8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px ;
+    border-radius: 30px;
+}
+.pricing{
+    color: #FF4A92;
+    font-weight: bold;
+    font-size: 29px;
+}
+.slider-btn{
+    display: inline-block;
+    background:linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    padding: 9px 15px;
+    border: 0px solid;
+    border-radius: 5px;
+    color: white;
+
+
+}
+
+.item-one{
+    background:#FFA500 ;
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: white;
+   
+   
+}
+
+
+.item-one img{
+    width: 100px;
+}
+.item-two{
+    background:#DA70D6 ;
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: white;
+}
+.item-two img{
+    width: 100px;
+}
+.item-three{
+    background: #0000FF;
+    padding: 10px 30px;
+    border-radius: 10px;
+    color: white;
+}
+.item-three img{
+    width: 100px;
+}
+.img-card{
+    width: 320px;
+    height: 210px;
+}
+.card-link{
+    background:linear-gradient(to bottom, #FF589B 0%, #FF136F 100%); 
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    transition: 0.5s;
+    transform-origin: top center;
+}
+.card img:hover{
+    transform: scale(1.1);
+    cursor: pointer ;
+}
+
+.form-control.w-25 {
+    margin: 0 auto;
+    margin-bottom: 20px!important;
+  }
+  .d-block.btn {
+    margin: 0 auto;
+
+    padding: 10px 52px;
+    border-radius: 16px;
+     background:linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+     border:none;
+     font-weight: 500;
+     margin-bottom: 20px;
+
+  }
+  #subscribe .container{
+      background: rgb(201, 172, 231);
+  }
+
